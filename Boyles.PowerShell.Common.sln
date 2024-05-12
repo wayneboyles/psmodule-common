@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Boyles.PowerShell.Common", "src\Boyles.PowerShell.Common.csproj", "{27F6D386-9ADF-4806-9334-10AFD4A9DA5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boyles.PowerShell.Common.Tests", "tests\Boyles.PowerShell.Common.Tests\Boyles.PowerShell.Common.Tests.csproj", "{00EBF1D9-476D-4680-8838-66A8613D13C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F6D386-9ADF-4806-9334-10AFD4A9DA5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F6D386-9ADF-4806-9334-10AFD4A9DA5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F6D386-9ADF-4806-9334-10AFD4A9DA5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F6D386-9ADF-4806-9334-10AFD4A9DA5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00EBF1D9-476D-4680-8838-66A8613D13C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00EBF1D9-476D-4680-8838-66A8613D13C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00EBF1D9-476D-4680-8838-66A8613D13C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00EBF1D9-476D-4680-8838-66A8613D13C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
