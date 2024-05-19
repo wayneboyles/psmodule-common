@@ -4,6 +4,7 @@
 		<TargetFramework>netstandard2.0</TargetFramework>
 		<LangVersion>latest</LangVersion>
 		<RootNamespace></RootNamespace>
+		<Nullable>enable</Nullable>
 		<Authors>Wayne Boyles</Authors>
 		<Description>Common library for PowerShell modules</Description>
 		<Copyright>Copyright (C) 2024 Wayne Boyles</Copyright>
@@ -15,7 +16,7 @@
 	</PropertyGroup>
 
 	<PropertyGroup>
-		<VersionNumber>0.1.1</VersionNumber>
+		<VersionNumber>0.1.2</VersionNumber>
 		<Version>$(VersionNumber)-alpha</Version>
 		<FileVersion>$(VersionNumber)</FileVersion>
 		<AssemblyVersion>$(VersionNumber)</AssemblyVersion>
