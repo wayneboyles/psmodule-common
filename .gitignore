@@ -10,6 +10,9 @@
 *.userosscache
 *.sln.docstates
 
+# Obsidian
+.obsidian
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
